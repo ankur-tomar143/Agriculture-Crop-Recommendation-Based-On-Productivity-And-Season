@@ -68,16 +68,5 @@ A machine learning-based system designed to recommend the most suitable crops to
 
 ---
 
-## License 📜
-
-   - This project is licensed under the MIT License.
-   - See the LICENSE file for details.   
-   
----
-
-- [GitHub](https://github.com/radecoder)
-
-    
-🌟 Star this repository if you find it helpful! 🌟
 
     
