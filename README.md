@@ -1,4 +1,4 @@
-# ACRS final project
+# Final project
  ACRS final project is the Agriculture Crop Recommendation System project which is based on ML.
 # Crop Recommendation System 🌾
 
@@ -45,22 +45,6 @@ A machine learning-based system designed to recommend the most suitable crops to
 
 ---
 
-## Installation 🛠️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/crop-recommendation-system.git
-   cd crop-recommendation-system
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Run the application:
-   ```bash
-   python app.py
-4. Access the application at http://127.0.0.1:5000.
-
----
-
 ## Usage 📖
 
    Enter the required details such as soil pH, temperature, and rainfall.
@@ -91,12 +75,6 @@ A machine learning-based system designed to recommend the most suitable crops to
    
 ---
 
-## Author 💻
-
-**Mohd Sahil**
-
-- [Portfolio](https://radecoder.github.io/ptf/)
-- [LinkedIn](https://www.linkedin.com/in/radecoder/)
 - [GitHub](https://github.com/radecoder)
 
     
